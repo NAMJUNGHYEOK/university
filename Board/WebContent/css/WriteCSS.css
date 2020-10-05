@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+
+.write{
+   font-style:italic;
+   font-weight:500;
+   height: auto;
+   width: fit-content;
+   margin:auto;
+   border: solid 2px black;
+   border-radius: 25px;
+   text-align:center;
+   
+}
+
+.main{
+   margin :3px;
+   padding:10px;
+   display:inline-block;
+   font-size:20px;
+   font-weight: bold;
+}
+.box{
+   width:200px; 
+   height:20px;
+   text-align:left;
+   margin-left: 20px;
+}
+.FileSubmit {
+    font-weight: bold;
+}
+.cancel {
+    font-weight: bold;
+}
+.content {
+    margin-top: -20px;
+}
+textarea{
+	height: 300px;
+}

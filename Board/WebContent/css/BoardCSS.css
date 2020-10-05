@@ -1,0 +1,100 @@
+
+
+
+body {
+    margin : 0;
+    padding : 0;
+    background-color:white;      
+}
+.CrudTitle {
+    height: 200px;
+    max-width: 800px;
+    margin:0 auto;
+    border : 1px solid white; 
+}
+.TitleWord {
+    text-align:center;
+    margin-top: 100px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.CrudOrder {
+    height: 50px;
+    max-width: 800px;
+    margin:0 auto;
+    padding-bottom:20px;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+}
+
+.word {
+    display: inline-block;
+    padding: 10px;
+    text-align : center;
+    
+    
+}
+.word.a { margin-left: -30px; font-weight:bold; }
+.word.b  { padding-left: 150px; font-weight:bold; }
+.word.c  { padding-left: 190px; font-weight:bold; }
+.word.d   { padding-left: 140px; font-weight:bold; }
+
+.word.q   { margin: 15px;width:10px; }
+.word.w { padding-left: 135px; padding-right: 100px; width:70px; }
+.word.e  { padding-left: 75px; padding-right: 50px; width:20px; }
+.word.r  { padding-left: 90px;padding-right: 30px; }
+ul { list-style-type: none; }
+li { list-style-type: none; }
+a { text-decoration: none;}
+.board-btn {
+    margin: 20px auto;
+    width: 50px;
+    height: 50px;
+    padding: 10px 0;
+    float:right;
+}
+.write {
+    width:80px;
+    float : right;
+    border:1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 1rem;
+    color: whitesmoke;
+    background: #444;
+    
+}  
+.write:hover {
+    background-color: black;
+}
+.CurdBar {
+    /* border: 1px solid red; */
+    height: 50px;
+    max-width: 800px;
+    margin:0px auto;
+}
+.table-row {
+	display:table;
+	font-weight: bold;
+	border-bottom: 1px solid #d4d4d4;
+	width:100%;
+	color: #686767;
+}
+.footer {
+	height: 1000px;
+	max-width:1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
